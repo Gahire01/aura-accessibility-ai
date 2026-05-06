@@ -1,2 +1,8 @@
-# aura-accessibility-ai
-Aura - Voice-first AI companion for blind and visually impaired users. Cross-platform Flutter app with on-device AI, proactive assistance, and family helper mode.
+# Desktop Branch
+
+Focus: Windows + macOS support using Flutter Desktop.
+
+- Keyboard shortcuts
+- Larger screen optimizations
+- PC version for guardians
+- Background service on desktop
