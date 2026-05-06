@@ -1,2 +1,11 @@
-# aura-accessibility-ai
-Aura - Voice-first AI companion for blind and visually impaired users. Cross-platform Flutter app with on-device AI, proactive assistance, and family helper mode.
+# AI Branch
+
+This branch is dedicated to AI integration:
+
+- On-device vision models (MediaPipe, TFLite)
+- Voice processing (Whisper, TTS)
+- Agent logic
+- Scene understanding
+- OCR
+
+Goal: Make core intelligence offline-first.
